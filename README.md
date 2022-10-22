@@ -2,12 +2,14 @@
 
 # ARRATA - A Roleplaying System
 
-## Welcome!
+## Review Branch
 
-To Arrata - A TTRPG project I've been working on since its ancestor BD&D in 2019.
+This branch is specifically for reviewing the draft branch changes before they're pushed to main for the following criteria:
 
-Arrata is a Tabletop Roleplaying system with an emphasis on characters and their development.
-
-It draws influence from games such as The Elder Scrolls, Dungeons and Dragons, Burning Wheel, and much more.
-
-The hope is to take a lot of the nuance character interaction and development from games such as Burning Wheel, mesh them with systems similar to those in games such as D&D and TES and provide an experience that's both mechanically rewarding and emotionally impactful.
+- Grammar. Is everything written to a high standard?
+- Balance. Are the changes fair and reasonable?
+- Functionality. Do the changes function as intended and do they interact well with the entire system?
+- Usefulness. Are the changes worth making in the first place - are they improving any of the following categories:
+  - Quality of Life - does it make a process easier?
+  - Readability - does it make something more intuitive or understandable?
+  - Freedom - does it allow for more options?
