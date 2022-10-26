@@ -4,7 +4,9 @@
 
 ## Review Branch
 
-This branch is specifically for reviewing the draft branch changes before they're pushed to main for the following criteria:
+This branch is specifically for refining changes made from the draft branch. These reviewed versions are then released as Review releases in 0.1 increments until the reviewed releases are satisfactory and pushed to the main branch for final #.0 release.
+
+Changes being made in the review branch are under the following criteria:
 
 - Grammar. Is everything written to a high standard?
 - Balance. Are the changes fair and reasonable?
